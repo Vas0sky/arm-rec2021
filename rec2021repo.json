@@ -1,11 +1,13 @@
 {
 	"name": "ARM Re-Volt Endurance Championship 2021 Repo",
 	"version": "21.1118",
-	"packages": "arm_rec2021round1": {
-            "description": "Pack containing allowed Rookie cars, CGW, Toy World 3 and Jailhouse Rock",
-            "version": 21.1118,
-            "checksum": "7b9f7f237d93f9cf53b71c81ef77ee952eccd55c8873f4cca54108ffadd6c1f8",
-            "url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021.zip"
+	"packages": {
+		"arm_rec2021round1": {
+			"description": "Pack containing allowed Rookie cars, CGW, Toy World 3 and Jailhouse Rock",
+			"version": 21.1118,
+			"checksum": "7b9f7f237d93f9cf53b71c81ef77ee952eccd55c8873f4cca54108ffadd6c1f8",
+			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021.zip"
+		}
 	},
 	"events": {
 			"title": "Round 1: Rookies on Toy World 3 + CGW on Jailhouse Rock",
