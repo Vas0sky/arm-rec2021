@@ -10,13 +10,15 @@
 		}
 	},
 	"events": {
+		"arm_rec2021round1event": {
 			"title": "Round 1: Rookies on Toy World 3 + CGW on Jailhouse Rock",
 			"date": "22-11-2021 20:30",
 			"hosts": {
-					"Vas0sky": "vas.rv.gl"
+				"Vas0sky": "vas.rv.gl"
 			},
 			"category": "tourney",
 			"mode": "race",
 			"class": "rookie"
+		}
 	}
 }
