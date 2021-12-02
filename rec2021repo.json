@@ -22,6 +22,7 @@
 			"checksum": "c2b7267bde02bea44abb359fdbc7adba1af3eb94e239f2f12279f8dc5b4de291",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round3.zip",
 			"file": "arm_rec2021round3.zip"
+		},
 	},
 	"events": {
 		"arm_rec2021_round3_event": {
@@ -36,5 +37,3 @@
 		}
 	}
 }
-
-	
