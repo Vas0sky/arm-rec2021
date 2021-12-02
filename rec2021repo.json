@@ -11,7 +11,7 @@
 		},
 		"arm_rec2021_round2": {
 			"description": "Pack containing F308 Pioneer and Rally Montagnolo",
-			"version": 21.1129,
+			"version": 21.1202,
 			"checksum": "adbbaeb7a6dcc7d4dfb4e32623b5cb5bb09a20d52a9460908c909af4f6659c51",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round2.zip",
             		"file": "arm_rec2021round2.zip"
