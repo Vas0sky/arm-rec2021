@@ -7,22 +7,28 @@
 			"version": 21.1118,
 			"checksum": "7b9f7f237d93f9cf53b71c81ef77ee952eccd55c8873f4cca54108ffadd6c1f8",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021.zip",
-            "file": "arm_rec2021round1.zip"
+            		"file": "arm_rec2021round1.zip"
 		},
 		"arm_rec2021_round2": {
 			"description": "Pack containing F308 Pioneer and Rally Montagnolo",
 			"version": 21.1129,
-			"checksum": "924ba17ea5f301754281007213c02f7217d49bcefee325db199b4398fadc4468",
+			"checksum": "adbbaeb7a6dcc7d4dfb4e32623b5cb5bb09a20d52a9460908c909af4f6659c51",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round2.zip",
-            "file": "arm_rec2021round2.zip"
-		}
+            		"file": "arm_rec2021round2.zip"
+		},
+		"arm_rec2021_round3": {
+			"description": "Pack containing Splat GTE, Old RV Loco, Autumn Ring without repo and Super Speedway",
+			"version": 21.1202,
+			"checksum": "c2b7267bde02bea44abb359fdbc7adba1af3eb94e239f2f12279f8dc5b4de291",
+			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round3.zip",
+			"file": "arm_rec2021round3.zip"
 	},
 	"events": {
-		"arm_rec2021_round2_event": {
-			"title": "Round 2: ANM Riverdance con auto Rally a scelta e Rally Montagnolo con F308 Pioneer",
-			"date": "29-11-2021 20:30",
+		"arm_rec2021_round3_event": {
+			"title": "Round 3: Autumn Ring con Splat GTE e Super Speedway con RV Loco pre-RVGL",
+			"date": "06-12-2021 20:30",
 			"hosts": {
-				"Robdin00": "rob.rv.gl"
+				"Vas0sky": "vas.rv.gl"
 			},
 			"category": "tourney",
 			"mode": "race",
