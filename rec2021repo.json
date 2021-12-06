@@ -19,7 +19,7 @@
 		"arm_rec2021_round3": {
 			"description": "Pack containing Splat GTE, Old RV Loco, Autumn Ring without repo and Super Speedway",
 			"version": 21.1206,
-			"checksum": "03953be7de0a5c5c9787061d5fd7b0310b49449e0664faa0376f41409f9a7435",
+			"checksum": "4149f37fbbad22072a71e8827d8f427d128d37d07efdbf19531f792d96b83f54",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round3.zip",
 			"file": "arm_rec2021round3.zip"
 		}
