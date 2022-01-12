@@ -1,6 +1,6 @@
 {
 	"name": "ARM Re-Volt Endurance Championship 2021 Repo",
-	"version": "21.1202",
+	"version": "22.0112",
 	"packages": {
 		"arm_rec2021_round1": {
 			"description": "Pack containing allowed Rookie cars, CGW, Toy World 3 and Jailhouse Rock",
