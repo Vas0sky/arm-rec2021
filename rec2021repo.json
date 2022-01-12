@@ -22,12 +22,19 @@
 			"checksum": "4149f37fbbad22072a71e8827d8f427d128d37d07efdbf19531f792d96b83f54",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round3.zip",
 			"file": "arm_rec2021round3.zip"
+		},
+		"arm_rec2021_round4": {
+			"description": "AMW and Fulon X skins.",
+			"version": 22.0112,
+			"checksum": "4ce3401a7eca8b8770f35337de8bf8cb334241bef428253b8c34699ce6662c4c",
+			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round4.zip",
+			"file": "arm_rec2021round4.zip"
 		}
 	},
 	"events": {
-		"arm_rec2021_round3_event": {
-			"title": "Round 3: Autumn Ring con Splat GTE e Super Speedway con RV Loco pre-RVGL",
-			"date": "06-12-2021 20:30",
+		"arm_rec2021_round4_event": {
+			"title": "Round 4: Random track with random car, Toytanic 1 with Fulon X and Toytanic 2 Reversed with AMW",
+			"date": "12-01-2022 20:30",
 			"hosts": {
 				"Vas0sky": "vas.rv.gl"
 			},
