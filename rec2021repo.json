@@ -25,7 +25,7 @@
 		},
 		"arm_rec2021_round4": {
 			"description": "AMW and Fulon X skins.",
-			"version": 22.0112,
+			"version": 22.0113,
 			"checksum": "3056e0774f6f6cc72d4efeec24ed7594e8c659569a8fc62d47ca9460ebe887cd",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round4.zip",
 			"file": "arm_rec2021round4.zip"
