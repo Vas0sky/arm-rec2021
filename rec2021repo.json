@@ -1,6 +1,6 @@
 {
 	"name": "ARM Re-Volt Endurance Championship 2021 Repo",
-	"version": "22.0112",
+	"version": "22.0117",
 	"packages": {
 		"arm_rec2021_round1": {
 			"description": "Pack containing allowed Rookie cars, CGW, Toy World 3 and Jailhouse Rock",
@@ -24,17 +24,24 @@
 			"file": "arm_rec2021round3.zip"
 		},
 		"arm_rec2021_round4": {
-			"description": "AMW and Fulon X skins.",
+			"description": "Pack containing AMW and Fulon X skins.",
 			"version": 22.0113,
 			"checksum": "3056e0774f6f6cc72d4efeec24ed7594e8c659569a8fc62d47ca9460ebe887cd",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round4.zip",
 			"file": "arm_rec2021round4.zip"
+		},
+		"arm_rec2021_round5": {
+			"description": "Pack containing SBX Alpine, Quake!, SNW35 skins and EXE TC",
+			"version": 22.0117,
+			"checksum": "e57189ce1d22ab4695a2f390bede698e39d5241fa4220b72394794cb45889b3a",
+			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round5.zip",
+			"file": "arm_rec2021round5.zip"
 		}
 	},
 	"events": {
-		"arm_rec2021_round4_event": {
-			"title": "Round 4: Random track with random car, Toytanic 1 with Fulon X and Toytanic 2 Reversed with AMW",
-			"date": "12-01-2022 20:30",
+		"arm_rec2021_round5_event": {
+			"title": "Round 5: SBX Alpine with SNW35 and Quake! with EXE TC.",
+			"date": "17-01-2022 20:30",
 			"hosts": {
 				"Vas0sky": "vas.rv.gl"
 			},
