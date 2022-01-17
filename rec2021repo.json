@@ -33,7 +33,7 @@
 		"arm_rec2021_round5": {
 			"description": "Pack containing SBX Alpine, Quake!, SNW35 skins and EXE TC",
 			"version": 22.0118,
-			"checksum": "3ddebfdf5f099068ad1bfda124bbb70b8d172f8ab9f52296c970fccdde1ff79e",
+			"checksum": "030260785818566d795888cf1ad926aa447c5c14bf676b2628fcc4799043159a",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round5.zip",
 			"file": "arm_rec2021round5.zip"
 		}
