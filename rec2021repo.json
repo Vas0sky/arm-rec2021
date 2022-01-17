@@ -1,6 +1,6 @@
 {
 	"name": "ARM Re-Volt Endurance Championship 2021 Repo",
-	"version": "22.0117",
+	"version": "22.0118",
 	"packages": {
 		"arm_rec2021_round1": {
 			"description": "Pack containing allowed Rookie cars, CGW, Toy World 3 and Jailhouse Rock",
@@ -32,8 +32,8 @@
 		},
 		"arm_rec2021_round5": {
 			"description": "Pack containing SBX Alpine, Quake!, SNW35 skins and EXE TC",
-			"version": 22.0117,
-			"checksum": "e57189ce1d22ab4695a2f390bede698e39d5241fa4220b72394794cb45889b3a",
+			"version": 22.0118,
+			"checksum": "3ddebfdf5f099068ad1bfda124bbb70b8d172f8ab9f52296c970fccdde1ff79e",
 			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round5.zip",
 			"file": "arm_rec2021round5.zip"
 		}
