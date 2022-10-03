@@ -1,53 +1,41 @@
 {
 	"name": "ARM Re-Volt Endurance Championship 2021 Repo",
-	"version": "22.0118",
+	"version": "22.1003",
 	"packages": {
 		"arm_rec2021_round1": {
 			"description": "Pack containing allowed Rookie cars, CGW, Toy World 3 and Jailhouse Rock",
 			"version": 21.1118,
 			"checksum": "7b9f7f237d93f9cf53b71c81ef77ee952eccd55c8873f4cca54108ffadd6c1f8",
-			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021.zip",
+			"url": "https://vas0sky.github.io/arm-rec2021/arm_rec2021.zip",
             		"file": "arm_rec2021round1.zip"
 		},
 		"arm_rec2021_round2": {
 			"description": "Pack containing F308 Pioneer and Rally Montagnolo",
 			"version": 21.1202,
 			"checksum": "adbbaeb7a6dcc7d4dfb4e32623b5cb5bb09a20d52a9460908c909af4f6659c51",
-			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round2.zip",
+			"url": "https://vas0sky.github.io/arm-rec2021/arm_rec2021_round2.zip",
             		"file": "arm_rec2021round2.zip"
 		},
 		"arm_rec2021_round3": {
 			"description": "Pack containing Splat GTE, Old RV Loco, Autumn Ring without repo and Super Speedway",
 			"version": 21.1206,
 			"checksum": "4149f37fbbad22072a71e8827d8f427d128d37d07efdbf19531f792d96b83f54",
-			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round3.zip",
+			"url": "https://vas0sky.github.io/arm-rec2021/arm_rec2021_round3.zip",
 			"file": "arm_rec2021round3.zip"
 		},
 		"arm_rec2021_round4": {
 			"description": "Pack containing AMW and Fulon X skins.",
 			"version": 22.0113,
 			"checksum": "3056e0774f6f6cc72d4efeec24ed7594e8c659569a8fc62d47ca9460ebe887cd",
-			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round4.zip",
+			"url": "https://vas0sky.github.io/arm-rec2021/arm_rec2021_round4.zip",
 			"file": "arm_rec2021round4.zip"
 		},
 		"arm_rec2021_round5": {
 			"description": "Pack containing SBX Alpine, Quake!, SNW35 skins and EXE TC",
 			"version": 22.0118,
 			"checksum": "030260785818566d795888cf1ad926aa447c5c14bf676b2628fcc4799043159a",
-			"url": "https://github.com/Vas0sky/arm-rec2021/raw/main/arm_rec2021_round5.zip",
+			"url": "https://vas0sky.github.io/arm-rec2021/arm_rec2021_round5.zip",
 			"file": "arm_rec2021round5.zip"
-		}
-	},
-	"events": {
-		"arm_rec2021_round5_event": {
-			"title": "Round 5: SBX Alpine with SNW35 and Quake! with EXE TC.",
-			"date": "17-01-2022 20:30",
-			"hosts": {
-				"Vas0sky": "vas.rv.gl"
-			},
-			"category": "tourney",
-			"mode": "race",
-			"class": "rookie"
 		}
 	}
 }
